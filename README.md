@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1, [B][COLOR  yellow] RAMALHOTV[/B][/COLOR]  [B][COLOR lime] -SERVIDOR 02[/B][/COLOR]
+http://canais.servidor
+
 
 #EXTINF:-1,A&E HD
 http://yakisoba-delivery.xyz:80/adriano/102030/143162|user-agent=GoPlayer
