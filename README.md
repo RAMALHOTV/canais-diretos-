@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1,A&E HD
-http://yakisoba-delivery.xyz:80/adriano/102030/143162
+http://yakisoba-delivery.xyz:80/adriano/102030/143162|user-agent=GoPlayer
 #EXTINF:-1,A&E SD
-http://yakisoba-delivery.xyz:80/adriano/102030/143163
+http://yakisoba-delivery.xyz:80/adriano/102030/143163|user-agent=GoPlayer
 #EXTINF:-1,All Sports DF
 http://yakisoba-delivery.xyz:80/adriano/102030/143461
 #EXTINF:-1,AMC FULLHD
